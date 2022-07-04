@@ -12,6 +12,7 @@ public class HelloOtus {
         for (int i = min; i < max; i++) {
             example.add(i);
         }
-        System.out.println(Lists.reverse(example));
+        System.out.println(Lists.reverse(example)
+        );
     }
 }
