@@ -1,0 +1,3 @@
+rootProject.name = 'For-homework'
+include 'hw01-gradle'
+
