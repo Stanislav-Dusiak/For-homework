@@ -1,4 +1,3 @@
 rootProject.name = 'otusJava'
-include 'homeWork-annotation'
-include 'home-work-annotation'
+include 'homeWork-04-gc'
 
