@@ -1,3 +1,4 @@
 rootProject.name = 'otusJava'
 include 'homeWork-04-gc'
+include 'homeWork-05'
 
