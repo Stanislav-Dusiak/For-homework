@@ -6,6 +6,6 @@ import ru.otus.model.Message;
 public interface Handler {
     Message handle(Message msg);
 
-    void addListener(Listener listener);
+    void addListener(Listener listenerr);
     void removeListener(Listener listener);
 }
