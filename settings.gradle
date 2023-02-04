@@ -1,4 +1,5 @@
 rootProject.name = 'otusJava'
 include 'homeWork-08-io'
 include 'homeWork-09'
+include 'homeWork-10-JPQL'
 
