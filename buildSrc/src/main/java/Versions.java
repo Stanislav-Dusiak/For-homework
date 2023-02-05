@@ -1,15 +1,11 @@
 public interface Versions {
-    String guava = "30.1.1-jre";
-    String jmh = "1.33";
-    String jol = "0.16";
+    String guava = "31.0.1-jre";
+    String jmh = "1.35";
     String asm = "9.2";
-    String glassfishJson = "1.1.4";
-    String protobuf = "3.19.1";
-
-    String testcontainers = "1.15.3";
+    String glassfishJson = "2.0.1";
 
     String lombok = "1.18.22";
-    String gson = "2.9.0";
+    String gson = "2.8.9";
 
     String mongodb = "4.4.1";
     String mongodbReactive = "4.4.1";
@@ -17,7 +13,7 @@ public interface Versions {
     String neo4j = "4.4.2";
     String jedis = "4.0.1";
 
-    String jetty = "11.0.9";
+    String jetty = "11.0.7";
     String freemarker = "2.3.31";
 
     String reflections = "0.10.2";
@@ -27,4 +23,9 @@ public interface Versions {
     String bootstrap = "5.1.3";
     String springDocOpenapiUi = "1.6.7";
     String jsr305 = "3.0.2";
+    String grpc = "1.44.1";
+    String errorProneAnnotations = "2.11.0";
+    String tomcatAnnotationsApi = "6.0.53";
+
+    String kafkaClients = "3.0.0";
 }
