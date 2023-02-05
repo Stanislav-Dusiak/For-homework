@@ -1,4 +1,5 @@
 rootProject.name = 'otusJava'
 include 'homeWork-12-webServer'
 include 'homeWore-13-DI'
+include 'homeWork-14-springData'
 
